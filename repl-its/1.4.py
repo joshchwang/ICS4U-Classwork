@@ -1,4 +1,3 @@
-# Statement
 # Write a program that reads an integer number and
 # prints its previous and next numbers.
 

@@ -1,4 +1,3 @@
-# Statement
 # Given a two - digit integer, swao its digits and
 # print the result.
 

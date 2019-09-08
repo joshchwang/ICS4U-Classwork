@@ -1,4 +1,3 @@
-# Statement
 # Given a two - digit integer, print its left digit
 # (a tens digit) and then its right digit
 # (a ones digit). Use the operator of integer

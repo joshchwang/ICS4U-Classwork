@@ -1,4 +1,3 @@
-# Statement
 # N students take K apples and distribute them among
 # each other evenly. The remaining (the indivisible)
 # part remains in the basket. How many apples will

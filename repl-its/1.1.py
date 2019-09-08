@@ -1,4 +1,3 @@
-# Statement:
 # Write a program that takes three numbers and prints their sum.
 # Every number isgiven on a separate line.
 
