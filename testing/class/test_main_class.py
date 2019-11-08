@@ -2,7 +2,7 @@ import datetime
 
 import pytest
 
-from main import Classroom, Person, Student, Teacher
+from main_class import Classroom, Person, Student, Teacher
 
 
 
@@ -213,7 +213,6 @@ def test_teacher_greet():
 
 
 # EXTRA TESTS
-@pytest.mark.skip
 def test_set_student_number_raises_error_with_invalid_value():
     student = Student("first", "last", datetime.datetime(2020, 1, 1), 1234)
     
@@ -221,7 +220,7 @@ def test_set_student_number_raises_error_with_invalid_value():
         student.set_student_number("abc123")
 
 
-@pytest.mark.skip
+
 def test_cant_assign_work_to_someone_elses_class():
     teacher = Teacher("John", "Smith", datetime.datetime(2020, 1, 1), 1234)
     
