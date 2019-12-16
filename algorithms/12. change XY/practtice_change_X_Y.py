@@ -1,0 +1,2 @@
+def changeXY(string):
+    pass
